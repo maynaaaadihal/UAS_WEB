@@ -9,7 +9,7 @@
 </head>
 <style>
     body{
-        background-image : url(pp.jpg);
+        background-image : url(bekronn.jpg);
         width: 500;
     
     }
@@ -30,10 +30,17 @@
   </li>
 </ul>
 <center><h1>SUMPAH PEMUDA</h1> <text-white> </center>
+<div class="col-md-12"></div>
+<center><h4><p>Sejarah Sumpah Pemuda dilatarbelakangi oleh kondisi Republik Indonesia yang mana saat itu masih dalam masa penjajahan Belanda.
+
+Dalam kondisi tersebut, para pemuda dari kelompok pelajar di Indonesia sepakat untuk mendirikan organisasi bernama Indonesische Student Bond atau PPPI pada 1926.
+
+Kelompok PPPI ini terdiri dari para pemuda terpelajar yang menempuh pendidikan di Stovia, Technische Hoogeschool te Bandoeng (THS), dan Rechtshogeschool te Batavia (RHS).
+
+Mereka semua mempunyai visi dan misi sama, bahwa kawanan penjajah yang mengekang Indonesia bisa disingkirkan dengan kekuatan serta persatuan semangat pemuda bangsa.</p></h4></center> 
+<center><p><h4 >1. Rapat pertama Rapat pertama dalam agenda Kongres Pemuda 2 diadakan pada Sabtu, 27 Oktober 1928 di Gedung Katholieke Jongenlingen Bond, Lapangan Banteng.</h4></p></center>
+
 <center><img src="potobersama.jpg" alt=""></center>
-<center><h4><p> Tahukah kalian pada tanggal 28 Oktober adalah hari bersejarah bagi masyarakat Indonesia, Kita memperingatinya sebagai Hari Sumpah Pemuda. Apa itu Hari Sumpah Pemuda? Sumpah pemuda ialah di mana para pemuda berikrar untuk bersatu dalam satu bangsa, tanah air, dan bahasa yang sama.
-Sumpah Pemuda dicetuskan dalam Kongres Pemuda II tanggal 28 Oktober 1928. Namun sebelum itu, para pemuda sudah terlebih dahulu mengupayakan persatuan melalui Kerapatan Besar Pemuda (Kongres Pemuda I) yang dilaksanakan pada 30 April sampai 2 Mei 1926 di Batavia.Tujuan diselenggarakannya Kongres Pemuda I adalah untuk menyamakan persepsi antar berbagai organisasi kepemudaan di Indonesia sehingga terwujud dasar pokok lahirnya persatuan Indonesia yang sejajar dengan bangsa-bangsa lain di dunia (Abdul Rahman, et al., 2008).</p></h4></center> 
-<center><p><h5>1. Rapat pertama Rapat pertama dalam agenda Kongres Pemuda 2 diadakan pada Sabtu, 27 Oktober 1928 di Gedung Katholieke Jongenlingen Bond, Lapangan Banteng.</h4></p></center>
 
 <div class="container">
   <div class ="row">
@@ -49,6 +56,7 @@ Sumpah Pemuda dicetuskan dalam Kongres Pemuda II tanggal 28 Oktober 1928. Namun 
     <h5> <p><center>2. Rapat kedua dibuka oleh Djoko Marsaid Agenda Kongres Pemuda 2 hari kedua dibuka oleh wakil ketua, Djoko Marsaid, pada pukul 07.30 WIB. Inoe Martakoesoema menyampaikan pendapat Inoe Martakoesoema, salah satu tokoh penting dalam Sumpah Pemuda (Kongres Pemuda 2), juga turut menyumbang ide soal pendidikan anak. Pidato Soenario tentang kepanduan Dalam rapat ini Soenario menjelaskan pentingnya nasionalisme dan demokrasi selain gerakan kepanduan. Jabatan wakil ketua Kongres Pemuda 2 digantikan Pada rapat ketiga kedudukan R.M. Djoko Marsaid sebagai wakil ketua Kongres Pemuda Kedua digantikan oleh Soedjono Djoened Pusponegoro. Djoko Marsaid mengundurkan diri dari rapat karena ada perbedaan pendapat tentang fusi organisasi. Ia menyampaikan lagi tentang persatuan bangsa Indonesia dengan mengutip buku Ramayana dan Mahabharata. Pidato penutup Untuk mengakhiri agenda kongres pemuda ini, Soegondo menyampaikan pidato penutup sebelum hasil putusan kongres dibacakan.
     Hasil Kongres Pemuda 2 Hasil dan putusan kongres itu kemudian dibacakan oleh ketua. Dikutip dari buku Sumpah pemuda: Latar Belakang Sejarah dan Pengaruhnya bagi Pergerakan Nasional (2008), hasil Kongres Pemuda 2 memutuskan bahwa kaum Pemuda Indonesia mengakui: Menjunjung bahasa Indonesia. Bahasa Indonesia wajib dipakai dalam perkumpulan dan pergaulan anak Indonesia karena dalam kongres itu juga bisa dipakai buat mengeluarkan perasaan kebangsaan. Setelah keputusan kongres dibacakan, para pemuda kemudian mengucapkan ikrar. Berikut ini isi Sumpah Pemuda yang dikenal sekarang: Pertama Kami putra dan putri Indonesia mengaku bertumpah darah yang satu, tanah Indonesia. Kedua Kami putra dan putri Indonesia, mengaku berbangsa yang satu, bangsa Indonesia.
     </center></p></h5>  
+    <center><img src="smph.jpg"  width="400%" alt=""></center>
   </div>
 </div>
 

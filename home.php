@@ -9,8 +9,8 @@
 </head>
 <style>
     body{
-        background-image : url(merah.jpg);
-        width: 500;
+        background-image : url(bekronn.jpg);
+      
     
     }
     </style>
@@ -34,8 +34,13 @@
 <div class="container">
     <div class="row">
             <div class="col-md-12">
-                <center><h5>Sumpah Pemuda di Buat Oleh Soegondo Djojopoespito. </h5></center>
+                <center><h2>Sumpah Pemuda di Buat Oleh Soegondo Djojopoespito. </h2></center>
             </div>
+            <p><h2><center>Sejarah Sumpah Pemuda dilatarbelakangi oleh kondisi Republik Indonesia yang mana saat itu masih dalam masa penjajahan Belanda.
+Dalam kondisi tersebut, para pemuda dari kelompok pelajar di Indonesia sepakat untuk mendirikan organisasi bernama Indonesische Student Bond atau PPPI pada 1926.
+Kelompok PPPI ini terdiri dari para pemuda terpelajar yang menempuh pendidikan di Stovia, 
+Mereka semua mempunyai visi dan misi sama, bahwa kawanan penjajah yang mengekang Indonesia bisa disingkirkan dengan kekuatan serta persatuan semangat pemuda bangsa.
+ "Sejarah Singkat Sumpah Pemuda, Diperingati Setiap 28 Oktober"</center></h2></p>
     </div>
 </div>
 </body>

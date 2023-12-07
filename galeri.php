@@ -9,7 +9,7 @@
 </head>
 <style>
     body{
-        background-image : url(berem.jpg);
+        background-image : url(bekronn.jpg);
         width: 500;
     
     }
@@ -32,35 +32,36 @@
 <center><h1>SUMPAH PEMUDA</h1> <text-white> </center>
 <center><img src="sidang jpg.jpg" alt=""></center>
 <div class ="container">
-    <div class="col-md-12">
+<div class="row">
+    <div class="col-md-4">
    <center><h3>Ketua : Soegondo Djojopoespito (PPPI)</h3></center>
-    </div>
-</div>
-<div class="col-md-12">
+   <center> <img src="Sugondo 1.jpg" width="25%" alt=""></center>
  <center><h3>Wakil Ketua : R.M. Djoko Marsaid (Jong Java)</h3></center>
-</div>
-<div class ="col-md-12">
+ <center><img src="marsaid.jpg" width="35%" alt=""></center>
 <center><h3>Sekretaris : Muhammad Yamin (Jong Sumatranen Bond)</h3></center>
+<center><img src="myamin.jpg" width="30%" alt=""></center>
 </div>
-<div class ="col-md-12">
+<div class ="col-md-4">
 <center><h3>Bendahara : Amir Sjarifoeddin (Jong Bataks Bond)</h3></center>
-</div>
-<div class ="col-md-12">
+<center><img src="amir.jpg" width="30%" alt=""></center>
 <center><h3>Pembantu I : Djohan Mohammad Tjai (Jong Islamieten Bond)</h3></center>
-</div>
-<div class ="col-md-12">
+<center><img src="tjai.jpg" width="30%" alt=""></center>
 <center><h3>Pembantu II : R. Katjasoengkana (Pemoeda Indonesia)</h3></center>
+<center><img src="sungkara.jpg" width="40%" alt=""></center>
 </div>
-<div class ="col-md-12">
+<div class ="col-md-4">
 <center><h3>Pembantu III : R.C.L. Senduk (Jong Celebes)</h3></center>
-</div>
-<div class ="col-md-12">
+<center><img src="senduk.jpg" width="30%" alt=""></center>
 <center><h3>Pembantu IV : Johannes Leimena (Jong Ambon)</h3></center>
-</div>
-<div class ="col-md-12">
+<center><img src="johanes.jpg" width="30%" alt=""></center>
 <center><h3>Pembantu V : Mohamad Rocjani Soe'oed (Pemoeda Kaoem Betawi)</h3></center>
+<center><img src="jana.jpg" width="35%" alt=""></center>
 </div>
- <center><img src="tokoh.jpg" alt=""></center>
+<div>
+ <center><img src="sidangjpg.jpg" alt=""></center>
+ </div>
+ </div>
+
 </body>
 </html>
 

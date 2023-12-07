@@ -59,20 +59,14 @@
       $nama =$_POST['nm'];
       $kelas =$_POST['kelas'];
       $jurusan =$_POST['jurusan'];
-    //   $jumlah =$_POST['jml_barang'];
-    //   $diskon1 =$_POST['diskon'];
-    //   $total = $harga * $jumlah;
-    //   $diskon = ($diskon1/100)*$total;
-    //   $totalSetelahDiskon=$total-$diskon;
+  
 
       echo"<div class ='container'>";
     //   echo"<h1>Jumlah yang harus di bayarkan  :</h1>";
       echo"<h4>Nama  : $nama</h4>";
       echo"<h4>Kelas: $kelas</h4>";
       echo"<h4>Jurusan: $jurusan</h4>";
-    //   echo"<h4>Jumlah Barang: $jumlah</h4>";
-    //   echo"<h4>Diskon : $diskon1 %</h4>";
-    //   echo"<h4>Total pembayaran Setelah Diskon: Rp. ",number_format($totalSetelahDiskon), "</h4>";
+    
       echo"</div>";
     }
     
